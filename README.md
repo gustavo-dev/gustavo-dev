@@ -1,11 +1,5 @@
 ## Hi. Welcome here, I'm glad for this. How are doing? 
 
-### Make yourself at home: 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoh-santos/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gh_santoss_/)
-<br>
-
 I believe that programming is an alternative to make the world better, following the constant changes in technology, bringing innovation and quality of life for everyone.
 
 ## Technologies that I usually use and improve throughout my days:
@@ -23,5 +17,11 @@ I believe that programming is an alternative to make the world better, following
 
 ### Contact me:
 #### E-mail: gustavohenrique.santos97@gmail.com
+
+### Make yourself at home: 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavoh-santos/)
+<br>
+
 
 ## Thank you for your visit, I see you soon!!!
