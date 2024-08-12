@@ -1,4 +1,4 @@
-## Hi. Welcome here, I'm glad for this. How are doing? 
+## Hi. Welcome! I'm glad you're here. How are you doing?
 
 I believe that programming is an alternative to make the world better, following the constant changes in technology, bringing innovation and quality of life for everyone.
 
