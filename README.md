@@ -25,5 +25,3 @@ I believe that programming is an alternative to make the world better, following
 
 
 ## Thank you for your visit, I see you soon!!!
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo.dev&hide=contribs,prs)
